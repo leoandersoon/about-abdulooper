@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @leoandersoon
-- 👀 I’m interested in AI, programming, bots, skateboards, boxing, and music.
+- 👀 I’m interested in AI, programming, bots, skateboards, boxing, and guitar, madafaka.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on AI.
-- 📫 How to reach me? You can reach me on Instagram as @leoandersoon, or on Twitter as @leopreneur.
+- 💞️ kalp ne alaka lan
+- 📫 How to reach me? You can reach me on Instagram as @leoandersoon, or on Twitter as @leoandersoon
 
 <!---
 leoandersoon/leoandersoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

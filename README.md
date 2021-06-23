@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah Aslan (@abdulooper)
 - 👀 I’m interested in AI, programming, bots, skateboards, boxing, and guitar, madafaka.
 - 🌱 I’m currently learning JavaScript
-- 💞️ I create contents for my INstagram page (https://instagram/computer.ware)
+- 💞️ I create contents for my INstagram page (https://www.instagram.com/computer.ware/)
 - 📫 How to reach me? You can reach me on Instagram as @abdulooper or @computer.ware, or on Twitter as @abdulooper
 
 <!---
